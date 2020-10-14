@@ -1,0 +1,302 @@
+﻿index,new column name,full question
+1,org_size,organization size
+2,1_disregarded_question,#N/A
+3,2_disregarded_question,#N/A
+4,employee_level,What is your substantive classification level?
+5,job_engagement_1,My job gives me opportunities to utilise my skills
+6,job_engagement_2,My job gives me a feeling of personal accomplishment
+7,job_engagement_3,I am satisfied with the recognition I receive for doing a good job
+8,job_engagement_4,"I am fairly remunerated (e.g. salary, O1 superannuation) for the work that I do"
+9,job_engagement_5,"I am satisfied with my non- monetary employment conditions (e.g. leave, flexible work arrangements, other benefits)"
+10,job_engagement_6,I am satisfied with the stability and security of my current job
+11,job_engagement_7,I suggest ideas to improve our way of doing things
+12,job_engagement_8,I am happy to go the ‘extra mile’ at O1 work when required
+13,job_engagement_9,"Considering everything, I am satisfied with my job"
+14,job_engagement_10,I believe strongly in the purpose O1 and objectives of the APS
+15,3_disregarded_question,#N/A
+16,team_engagement_1,"The people in my workgroup are honest, open and transparent in their dealings"
+17,team_engagement_2,The people in my workgroup cooperate to get the job done
+18,team_engagement_3,The people in my workgroup are committed to workplace safety
+19,team_engagement_4,The people in my workgroup behave in an accepting manner towards people from diverse backgrounds
+20,4_disregarded_question,#N/A
+21,supervisor_engagement_1,My supervisor actively supports people from diverse backgrounds
+22,supervisor_engagement_2,My supervisor treats people with respect
+23,supervisor_engagement_3,My supervisor communicates effectively
+24,supervisor_engagement_4,My supervisor encourages me to contribute ideas
+25,5_disregarded_question,#N/A
+26,supervisor_engagement_5,"My supervisor invites a range of views, including those different to their own"
+27,supervisor_engagement_6,My supervisor displays resilience when faced with difficulties or failures
+28,supervisor_engagement_7,My supervisor maintains composure under pressure
+29,supervisor_engagement_8,I have a good immediate supervisor
+30,supervisor_engagement_9,My supervisor gives me responsibility and holds me to account for what I deliver
+31,supervisor_engagement_10,My supervisor challenges me to consider new ways of doing things
+32,supervisor_engagement_11,"My supervisor actively supports the use of flexible work arrangements by all staff, regardless of gender"
+33,senior_manager_engagement_1,My SES manager is of a high quality
+34,senior_manager_engagement_2,My SES manager is sufficiently visible (e.g. can be seen in action)
+35,senior_manager_engagement_3,My SES manager communicates effectively
+36,senior_manager_engagement_4,My SES manager engages with staff on how to respond to future challenges
+37,senior_manager_engagement_5,My SES manager gives their time to identify and develop talented people
+38,senior_manager_engagement_6,My SES manager ensures that work effort contributes to the strategic direction of the agency and the APS
+39,senior_manager_engagement_7,My SES manager effectively leads and manages change
+40,6_disregarded_question,#N/A
+41,senior_manager_engagement_8,My SES manager encourages innovation and creativity
+42,senior_manager_engagement_9,My SES manager actively supports people of diverse backgrounds
+43,senior_manager_engagement_10,My SES manager actively supports opportunities for women to access leadership roles
+44,senior_manager_engagement_11,"My SES manager actively supports the use of flexible work arrangements by all staff, regardless of gender"
+45,7_disregarded_question,#N/A
+46,senior_manager_engagement_12,My SES manager clearly articulates the direction and priorities for our area
+47,leadership_engagement_1,"In my agency, the SES are sufficiently visible (e.g. can be seen in action)"
+48,leadership_engagement_2,"In myagency, communication between the SES and other employees is effective"
+49,8_disregarded_question,#N/A
+50,leadership_engagement_3,"In my agency, the SES actively contribute to the work of our agency"
+51,leadership_engagement_4,"In my agency, the SES are of a high quality"
+52,leadership_engagement_5,"In my agency, the SES supports and provides opportunities for new ways of working in a digital environment"
+53,leadership_engagement_6,"In my agency, the SES work as a team"
+54,leadership_engagement_7,"In my agency, the SES clearly articulate the direction and priorities for our agency"
+55,agency_engagement_1,I feel a strong personal attachment to my agency
+56,agency_engagement_2,I am proud to work in my agen
+57,agency_engagement_3,Change is managed well in my agency
+58,agency_engagement_4,Internal communication within my agency is effective
+59,agency_engagement_5,"My workplace provides access to effective learning and development (e.g. formal training, learning on the job, e-learning, secondments)"
+60,agency_engagement_6,I am satisfied with the opportunities for career progression in my agency
+61,agency_engagement_7,I would recommend my agency as a good place to work
+62,agency_engagement_8,My agency actively encourages ethical behaviour by all of its employees
+63,agency_engagement_9,"My agency is committed to creating a diverse workforce (e.g. gender, age, cultural and linguistic background, disability, Indigenous, LGBTI+)"
+64,agency_engagement_10,I believe strongly in the purpose and objectives of my agency
+65,agency_engagement_11,Internal communication within my agency is regular
+66,agency_engagement_12,My agency supports and actively promotes an inclusive workplace culture
+67,9_disregarded_question,#N/A
+68,agency_engagement_13,I work beyond what is required in my job to help my agency achieve its objectives
+69,agency_engagement_14,"When someone praises the accomplishments of my agency, it feels like a personal compliment to me"
+70,agency_engagement_15,"In general, employees in my agency feel they are valued for their contribution"
+71,agency_engagement_16,I feel committed to my agency’s goals
+72,agency_engagement_17,My agency really inspires me to do my best work every day
+73,10_disregarded_question,#N/A
+74,wellbeing_1,"Considering your work and life priorities, how satisfied are you with the work-life balance in your current job?"
+75,11_disregarded_question,#N/A
+76,12_disregarded_question,#N/A
+77,13_disregarded_question,#N/A
+78,14_disregarded_question,#N/A
+79,15_disregarded_question,#N/A
+80,16_disregarded_question,#N/A
+81,17_disregarded_question,#N/A
+82,18_disregarded_question,#N/A
+83,19_disregarded_question,#N/A
+84,20_disregarded_question,#N/A
+85,21_disregarded_question,#N/A
+86,22_disregarded_question,#N/A
+87,wellbeing_2,I have unrealistic time pressures
+88,wellbeing_3,I have a choice in deciding how I do my work
+89,wellbeing_4,My immediate supervisor encourages me
+90,wellbeing_5,I receive the respect I deserve from my colleagues at work
+91,wellbeing_6,Relationships at work are strained
+92,wellbeing_7,I am clear what my duties and responsibilities are
+93,wellbeing_8,Staff are consulted about change at work
+94,wellbeing_9,I am satisfied with the policies/practices in place to help me manage my health and wellbeing
+95,wellbeing_10,My agency does a good job of communicating what it can offer me in terms of health and wellbeing
+96,wellbeing_11,My agency does a good job of promoting health and wellbeing
+97,wellbeing_12,I think my agency cares about my health and wellbeing
+98,wellbeing_13,I believe my immediate supervisor cares about my health and wellbeing
+99,23_disregarded_question,#N/A
+100,24_disregarded_question,#N/A
+101,25_disregarded_question,#N/A
+102,26_disregarded_question,#N/A
+103,27_disregarded_question,#N/A
+104,28_disregarded_question,#N/A
+105,29_disregarded_question,#N/A
+106,30_disregarded_question,#N/A
+107,31_disregarded_question,#N/A
+108,32_disregarded_question,#N/A
+109,33_disregarded_question,#N/A
+110,34_disregarded_question,#N/A
+111,35_disregarded_question,#N/A
+112,36_disregarded_question,#N/A
+113,37_disregarded_question,#N/A
+114,38_disregarded_question,#N/A
+115,39_disregarded_question,#N/A
+116,40_disregarded_question,#N/A
+117,41_disregarded_question,#N/A
+118,42_disregarded_question,#N/A
+119,43_disregarded_question,#N/A
+120,44_disregarded_question,#N/A
+121,45_disregarded_question,#N/A
+122,46_disregarded_question,#N/A
+123,47_disregarded_question,#N/A
+124,48_disregarded_question,#N/A
+125,49_disregarded_question,#N/A
+126,50_disregarded_question,#N/A
+127,51_disregarded_question,#N/A
+128,52_disregarded_question,#N/A
+129,53_disregarded_question,#N/A
+130,54_disregarded_question,#N/A
+131,55_disregarded_question,#N/A
+132,56_disregarded_question,#N/A
+133,57_disregarded_question,#N/A
+134,58_disregarded_question,#N/A
+135,59_disregarded_question,#N/A
+136,60_disregarded_question,#N/A
+137,61_disregarded_question,#N/A
+138,62_disregarded_question,#N/A
+139,63_disregarded_question,#N/A
+140,64_disregarded_question,#N/A
+141,65_disregarded_question,#N/A
+142,66_disregarded_question,#N/A
+143,67_disregarded_question,#N/A
+144,68_disregarded_question,#N/A
+145,69_disregarded_question,#N/A
+146,70_disregarded_question,#N/A
+147,71_disregarded_question,#N/A
+148,72_disregarded_question,#N/A
+149,73_disregarded_question,#N/A
+150,74_disregarded_question,#N/A
+151,75_disregarded_question,#N/A
+152,76_disregarded_question,#N/A
+153,77_disregarded_question,#N/A
+154,78_disregarded_question,#N/A
+155,79_disregarded_question,#N/A
+156,80_disregarded_question,#N/A
+157,81_disregarded_question,#N/A
+158,82_disregarded_question,#N/A
+159,83_disregarded_question,#N/A
+160,84_disregarded_question,#N/A
+161,85_disregarded_question,#N/A
+162,86_disregarded_question,#N/A
+163,87_disregarded_question,#N/A
+164,88_disregarded_question,#N/A
+165,89_disregarded_question,#N/A
+166,90_disregarded_question,#N/A
+167,91_disregarded_question,#N/A
+168,92_disregarded_question,#N/A
+169,93_disregarded_question,#N/A
+170,94_disregarded_question,#N/A
+171,95_disregarded_question,#N/A
+172,96_disregarded_question,#N/A
+173,97_disregarded_question,#N/A
+174,98_disregarded_question,#N/A
+175,99_disregarded_question,#N/A
+176,100_disregarded_question,#N/A
+177,101_disregarded_question,#N/A
+178,102_disregarded_question,#N/A
+179,103_disregarded_question,#N/A
+180,104_disregarded_question,#N/A
+181,105_disregarded_question,#N/A
+182,106_disregarded_question,#N/A
+183,107_disregarded_question,#N/A
+184,108_disregarded_question,#N/A
+185,109_disregarded_question,#N/A
+186,110_disregarded_question,#N/A
+187,111_disregarded_question,#N/A
+188,112_disregarded_question,#N/A
+189,113_disregarded_question,#N/A
+190,114_disregarded_question,#N/A
+191,115_disregarded_question,#N/A
+192,116_disregarded_question,#N/A
+193,117_disregarded_question,#N/A
+194,118_disregarded_question,#N/A
+195,119_disregarded_question,#N/A
+196,120_disregarded_question,#N/A
+197,121_disregarded_question,#N/A
+198,122_disregarded_question,#N/A
+199,123_disregarded_question,#N/A
+200,risk_culture_1,My agency supports employees to escalate risk-related issues with managers
+201,risk_culture_2,Risk management concerns are discussed openly and honestly in my agency
+202,124_disregarded_question,#N/A
+203,risk_culture_3,My agency provides me with opportunities to develop and enhance my skills to manage risk effectively
+204,risk_culture_4,Employees in my agency are encouraged to consider opportunities when managing risk
+205,risk_culture_5,Appropriate risk taking is rewarded in my agency
+206,125_disregarded_question,#N/A
+207,126_disregarded_question,#N/A
+208,127_disregarded_question,#N/A
+209,128_disregarded_question,#N/A
+210,129_disregarded_question,#N/A
+211,130_disregarded_question,#N/A
+212,131_disregarded_question,#N/A
+213,132_disregarded_question,#N/A
+214,133_disregarded_question,#N/A
+215,134_disregarded_question,#N/A
+216,135_disregarded_question,#N/A
+217,136_disregarded_question,#N/A
+218,137_disregarded_question,#N/A
+219,138_disregarded_question,#N/A
+220,139_disregarded_question,#N/A
+221,innovation_1,I believe that one of my responsibilities is to continually look for new ways to improve the way we work
+222,innovation_2,My immediate supervisor encourages me to come up with new or better ways of doing things
+223,innovation_3,People are recognised for coming up with new and innovative ways of working
+224,innovation_4,My agency inspires me to come up with new or better ways of doing things
+225,innovation_5,My agency recognises and supports the notion that failure is a part of innovation
+226,team_performance_rating,"In the last month, please rate your workgroup’s overall performance on a scale of 1 to 10 , where 1 means your workgroup’s worst performance, 5 means an average workgroup performance and 10 means the best your workgroup has ever worked:"
+227,140_disregarded_question,#N/A
+228,141_disregarded_question,#N/A
+229,team_performance_support_1,"My workgroup has the appropriate skills, capabilities, and knowledge to perform well"
+230,team_performance_support_2,My workgroup has the tools and resources we need to perform well
+231,team_performance_support_3,The work processes we have in place allow me to be as productive as possible
+232,team_performance_support_4,The people in my workgroup complete work to a high standard
+233,142_disregarded_question,#N/A
+234,143_disregarded_question,#N/A
+235,144_disregarded_question,#N/A
+236,values_1,Do colleagues in your immediate workgroup act in accordance with the APS Values in their everyday work?
+237,values_2,Does your supervisor act in accordance with the APS Values in his or her everyday work?
+238,values_3,Do senior leaders (i.e. the SES) in your agency act in accordance with the APS Values?
+239,145_disregarded_question,#N/A
+240,146_disregarded_question,#N/A
+241,147_disregarded_question,#N/A
+242,148_disregarded_question,#N/A
+243,149_disregarded_question,#N/A
+244,150_disregarded_question,#N/A
+245,151_disregarded_question,#N/A
+246,152_disregarded_question,#N/A
+247,153_disregarded_question,#N/A
+248,154_disregarded_question,#N/A
+249,155_disregarded_question,#N/A
+250,156_disregarded_question,#N/A
+251,157_disregarded_question,#N/A
+252,158_disregarded_question,#N/A
+253,159_disregarded_question,#N/A
+254,160_disregarded_question,#N/A
+255,161_disregarded_question,#N/A
+256,162_disregarded_question,#N/A
+257,163_disregarded_question,#N/A
+258,164_disregarded_question,#N/A
+259,165_disregarded_question,#N/A
+260,166_disregarded_question,#N/A
+261,167_disregarded_question,#N/A
+262,168_disregarded_question,#N/A
+263,169_disregarded_question,#N/A
+264,170_disregarded_question,#N/A
+265,171_disregarded_question,#N/A
+266,172_disregarded_question,#N/A
+267,173_disregarded_question,#N/A
+268,174_disregarded_question,#N/A
+269,175_disregarded_question,#N/A
+270,176_disregarded_question,#N/A
+271,177_disregarded_question,#N/A
+272,178_disregarded_question,#N/A
+273,179_disregarded_question,#N/A
+274,180_disregarded_question,#N/A
+275,181_disregarded_question,#N/A
+276,182_disregarded_question,#N/A
+277,183_disregarded_question,#N/A
+278,184_disregarded_question,#N/A
+279,185_disregarded_question,#N/A
+280,186_disregarded_question,#N/A
+281,187_disregarded_question,#N/A
+282,188_disregarded_question,#N/A
+283,189_disregarded_question,#N/A
+284,190_disregarded_question,#N/A
+285,191_disregarded_question,#N/A
+286,192_disregarded_question,#N/A
+287,193_disregarded_question,#N/A
+288,194_disregarded_question,#N/A
+289,195_disregarded_question,#N/A
+290,196_disregarded_question,#N/A
+291,197_disregarded_question,#N/A
+292,198_disregarded_question,#N/A
+293,199_disregarded_question,#N/A
+294,200_disregarded_question,#N/A
+295,201_disregarded_question,#N/A
+296,202_disregarded_question,#N/A
+297,203_disregarded_question,#N/A
+298,204_disregarded_question,#N/A
+299,205_disregarded_question,#N/A
+300,206_disregarded_question,#N/A
+301,207_disregarded_question,#N/A
